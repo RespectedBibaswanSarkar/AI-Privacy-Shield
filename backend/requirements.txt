@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+numpy
+flet
+requests
+
+streamlit
