@@ -672,6 +672,11 @@ ai-privacy-shield/
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
+## Contributors
+
+- [Pranavi Pathak](https://github.com/pranavipathak-dotcom)
+- [Bibaswan Sarkar](https://github.com/RespectedBibaswanSarkar)
+
 ---
 
 <p align="center">
